@@ -1,0 +1,16 @@
+**Call Summary:**
+Mark Johnson called ABC Travel to book a flight to Paris. He needed to depart on the 14th of the month and return on the 21st. The customer service representative, John, assisted him in finding a first-class roundtrip flight from LAX to Paris. The outbound flight departs at 7 p.m. on the 14th, arriving in Paris at 1:15 p.m. the next day. The return flight departs Paris at 3:45 p.m. on the 21st, arriving in LAX at 6:55 p.m. Premium first-class seating with extra legroom and meals were included. The total fare was $9,550, charged to the card on file. The itinerary and e-ticket numbers were emailed to Mr. Johnson.
+
+**Key Takeaways:**
+1. Customer: Mark Johnson
+2. Destination: Paris
+3. Departure Date: 14th of the month
+4. Return Date: 21st of the month
+5. Departure Airport: LAX
+6. Flight Details:
+   - Outbound: First class, departing LAX at 7 p.m. on the 14th, arriving in Paris at 1:15 p.m. the next day
+   - Return: First class, departing Paris at 3:45 p.m. on the 21st, arriving in LAX at 6:55 p.m.
+7. Additional Services: Premium first-class seating with extra legroom and meals included
+8. Total Fare: $9,550
+9. Payment: Charged to the card on file
+10. Confirmation: Itinerary and e-ticket numbers emailed to the customer
